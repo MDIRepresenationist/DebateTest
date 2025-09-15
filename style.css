@@ -1,0 +1,31 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  background-color: #f9f9f9;
+}
+
+textarea {
+  font-size: 16px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+button {
+  font-size: 16px;
+  padding: 8px 16px;
+  background-color: #0077cc;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+#outputArea {
+  margin-top: 20px;
+  padding: 10px;
+  background-color: #ffffff;
+  border: 1px solid #ccc;
+}
+
+.highlight {
+  background-color: #cce5ff;
+}
